@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "dactyl-layouts.dtsi"
+#include "dactyl_layouts.dtsi"
 
 &physical_layout0 {
     transform = <&default_transform>;
